@@ -9,5 +9,5 @@ package com.example.testghh;
  * @author Admin
  */
 public class NewClass2 {
-    
+    // did something already.
 }
