@@ -9,5 +9,8 @@ package com.example.testghh;
  * @author Admin
  */
 public class NewClass {
-    
+    public static void main(String[] args) {
+        //code here
+    }
 }
+
